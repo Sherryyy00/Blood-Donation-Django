@@ -27,7 +27,6 @@ This Django web application manages blood donor registrations and contact detail
 ## Run the development server:
 
 * python manage.py runserver
-* Access the application at http://localhost:8000/
 
 ## Usage
 * ### Donor Registration: Fill out the donor registration form with required details.
